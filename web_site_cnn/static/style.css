@@ -1,0 +1,11 @@
+.titre{
+    color:#6A5ACD;
+    font-weight:1000;
+    font-style:italic;
+}
+
+#block_main{
+    width:300px;
+    padding:10px;
+    text-align:center;
+}
